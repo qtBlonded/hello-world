@@ -1,2 +1,3 @@
 # hello-world
-test repository to understand git
+test edit to commit then merge branches
+
